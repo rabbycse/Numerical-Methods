@@ -17,12 +17,17 @@ Bisection Method calculates the root by first calculating the mid point of the g
 ![800px-bisection_method svg](https://user-images.githubusercontent.com/37344605/48907282-2dbf9900-ee91-11e8-8dba-ee6e23386139.png)
 
 
+
+
+
+
 ### 2. Fixed Point Iteration / Repeated Substitution Method
+
 This is most easiest of all method. The logic is very simple. Given an equation, take an initial guess and and find the functional value for that guess, in the subsequent iteration the result obtained in last iteration will be new guess. Continue this process until get the required accuracy. This means that absoulte differebce between two subsequent functional values in two iterations is too small to be neglected.
 
 But all functions don’t converge. If for given function
 
-     |f′(x)|<1
+                                        |f′(x)|<1
 Then this method will converge to actual solution or in other cases, it will diverge.
 
 

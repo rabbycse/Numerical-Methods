@@ -31,4 +31,9 @@ But all functions don’t converge. If for given function
 Then this method will converge to actual solution or in other cases, it will diverge.
 
 
+![250px-sine_fixed_point svg](https://user-images.githubusercontent.com/37344605/48907829-dae6e100-ee92-11e8-8166-20c3f71cadc8.png)
+
+
+
+
 

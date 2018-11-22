@@ -12,6 +12,7 @@ It is also called Interval halving, binary search method and dichotomy method.
 
 Bisection Method calculates the root by first calculating the mid point of the given interval end points.
 
-https://en.wikipedia.org/wiki/Bisection_method#/media/File:Bisection_method.svg
+![800px-bisection_method svg](https://user-images.githubusercontent.com/37344605/48907282-2dbf9900-ee91-11e8-8dba-ee6e23386139.png)
+
 
 

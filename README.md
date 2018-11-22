@@ -23,12 +23,10 @@ Bisection Method calculates the root by first calculating the mid point of the g
 
 ### 2. Fixed Point Iteration / Repeated Substitution Method
 
-This is most easiest of all method. The logic is very simple. Given an equation, take an initial guess and and find the functional value for that guess, in the subsequent iteration the result obtained in last iteration will be new guess. Continue this process until get the required accuracy. This means that absoulte differebce between two subsequent functional values in two iterations is too small to be neglected.
+The transcendental equation f(x) = 0 can be converted algebraically into the form x = g(x) and then using the iterative scheme with the recursive relation 
+#                           xi+1= g(xi),           i = 0, 1, 2, . . ., 
 
-But all functions don’t converge. If for given function
-
-                                        |f′(x)|<1
-Then this method will converge to actual solution or in other cases, it will diverge.
+with some initial guess x0  is called the fixed point iterative scheme.
 
 
 ![250px-sine_fixed_point svg](https://user-images.githubusercontent.com/37344605/48907829-dae6e100-ee92-11e8-8166-20c3f71cadc8.png)

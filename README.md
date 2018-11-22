@@ -25,7 +25,7 @@ Bisection Method calculates the root by first calculating the mid point of the g
 
 The transcendental equation f(x) = 0 can be converted algebraically into the form x = g(x) and then using the iterative scheme with the recursive relation 
 
-                                      ![capture](https://user-images.githubusercontent.com/37344605/48908814-9f014b00-ee95-11e8-93ed-90e46fddb11c.PNG)
+![capture](https://user-images.githubusercontent.com/37344605/48908814-9f014b00-ee95-11e8-93ed-90e46fddb11c.PNG)
 
 
 

@@ -52,9 +52,9 @@ The Newton’s method is a better approximation method as compared to some other
 
 This is a one-point method since it requires only one starting value and does not need to satisfy any other serious conditions.
 
-Newton-Raphson Formula
+### Newton-Raphson Formula:
 
-![newton-raphson-formula](https://user-images.githubusercontent.com/37344605/48908165-bb03ed00-ee93-11e8-8b2c-824769d95b42.png)
+   ![newton-raphson-formula](https://user-images.githubusercontent.com/37344605/48908165-bb03ed00-ee93-11e8-8b2c-824769d95b42.png)
 
 
 

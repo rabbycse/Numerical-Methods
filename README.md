@@ -37,3 +37,22 @@ Then this method will converge to actual solution or in other cases, it will div
 
 
 
+### 3.  Newton-Raphson’s Method
+The newton raphson algorithm is one of the most popular root-finding methods. So, it is basically used to find roots of a real-valued function.
+
+
+
+
+This method is named after Isaac Newton and Joseph Raphson and is used to find a minimum or maximum of a function.
+
+The Newton’s method is a better approximation method as compared to some other numerical methods. It is based on the idea of simple linear approximation.
+
+This is a one-point method since it requires only one starting value and does not need to satisfy any other serious conditions.
+
+Newton-Raphson Formula
+
+
+
+
+
+

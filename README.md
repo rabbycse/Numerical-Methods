@@ -41,6 +41,8 @@ Then this method will converge to actual solution or in other cases, it will div
 The newton raphson algorithm is one of the most popular root-finding methods. So, it is basically used to find roots of a real-valued function.
 
 
+![graphical-representation-of-the-newton-raphson-algorithm](https://user-images.githubusercontent.com/37344605/48908155-b808fc80-ee93-11e8-9e2e-0875283b8232.png)
+
 
 
 This method is named after Isaac Newton and Joseph Raphson and is used to find a minimum or maximum of a function.
@@ -50,6 +52,8 @@ The Newton’s method is a better approximation method as compared to some other
 This is a one-point method since it requires only one starting value and does not need to satisfy any other serious conditions.
 
 Newton-Raphson Formula
+
+![newton-raphson-formula](https://user-images.githubusercontent.com/37344605/48908165-bb03ed00-ee93-11e8-8b2c-824769d95b42.png)
 
 
 

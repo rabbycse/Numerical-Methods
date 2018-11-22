@@ -24,7 +24,7 @@ Bisection Method calculates the root by first calculating the mid point of the g
 ### 2. Fixed Point Iteration / Repeated Substitution Method
 
 The transcendental equation f(x) = 0 can be converted algebraically into the form x = g(x) and then using the iterative scheme with the recursive relation 
-#                           xi+1= g(xi),           i = 0, 1, 2, . . ., 
+###                           xi+1= g(xi),           i = 0, 1, 2, . . ., 
 
 with some initial guess x0  is called the fixed point iterative scheme.
 
